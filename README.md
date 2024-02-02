@@ -1,2 +1,2 @@
-# Python for Data Science project
-A repository wich contains the final version of our python for datascience end of semester project
+# Papers Project Repository
+A repository wich contains notebooks and codes of my master degree thesis on the automation of Systematic Litterature Review.
